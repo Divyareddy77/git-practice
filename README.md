@@ -1,2 +1,3 @@
-# git-practice
-Repository to practice Git branches and pull requests
+# Git Practice Repository
+
+This project demonstrates Git Branches, Pull Requests, and Merge Conflicts.
